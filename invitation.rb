@@ -2,8 +2,8 @@
 
 # Try starting out with puts'ing a string.
 
-guest_name
-party_name
-date
-time
-host_name
+puts guest_name = "Hermione"
+puts party_name = "Best Halloween Party Ever"
+puts date
+puts time
+puts host_name
